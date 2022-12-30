@@ -1,0 +1,47 @@
+.row, .calculator{
+    display: flex;
+    gap: 16px;
+}
+
+body{
+    display: flex;
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.calculator{
+    flex-direction: column;
+    background-color: aqua;
+    border-style: solid;
+    border-width: 2px;
+    padding: 18px;
+}
+
+button{
+    width: 50px;
+    height: 50px;
+}
+
+.display{
+    outline: 2px solid black;
+    width: 100%;
+    text-align: end;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 15px 0px 15px 0px;
+    background-color: grey;
+}
+
+.clear{
+    width: 100%;
+}
+
+.operator{
+    background-color: tan;
+}
+
+.pressed{
+    background-color: khaki;
+}
