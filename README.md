@@ -9,6 +9,6 @@
 This repo is an app that uses HTML, CSS, and JavaScript to design a functional calculator.
 
 ## Features
-All basic operations are supported (divide, multiple, add, subtract)
-It also has a button to clear the current display
-Includes overflow protection
+- All basic operations are supported (divide, multiple, add, subtract)
+- It also has a button to clear the current display
+- Includes overflow protection
