@@ -1,7 +1,7 @@
 # Calculator
 
 ## Links
-- [Website]([https://ryanndao.github.io/landing-page/](https://ryanndao.github.io/calculator/)
+- [Website](https://ryanndao.github.io/landing-page/](https://ryanndao.github.io/calculator/)
 
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-calculator)
 
